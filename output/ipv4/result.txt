@@ -1,20 +1,10 @@
 🕘️更新时间,#genre#
-2026-07-07 20:30:51,http://101.66.199.29:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+2026-07-08 07:02:38,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
-CCTV-1,http://101.66.199.29:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-5,http://101.66.194.186:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
-CCTV-6,http://101.66.194.186:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-8,http://101.66.194.151:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
-CCTV-9,http://101.66.199.29:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-10,http://101.66.199.29:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-10,http://101.66.195.209:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=f499c99bfbd0d5b43b1d20ead24f5058&wsTime=6a452729&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20260701224144E16D5A7566C0BF124425-aeSDux
-CCTV-14,http://101.66.199.29:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-15,http://101.66.199.29:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-15,http://101.66.194.151:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 
 💰央视付费频道,#genre#
 文化精品,http://192.151.150.154/live/ysjp.m3u8
@@ -24,16 +14,12 @@ CCTV-15,http://101.66.194.151:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 北京卫视,http://198.204.228.26/live/bjwshd.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
-黑龙江卫视,http://101.66.194.186:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://101.66.199.29:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-东南卫视,http://101.66.194.186:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
+河北卫视,http://115.48.161.55:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
-山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-山东卫视,http://101.66.199.29:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️山西频道,#genre#
