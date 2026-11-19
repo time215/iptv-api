@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2026-11-19 02:41:49,http://173.208.234.146/live/cctv3.m3u8
+2026-11-19 10:58:35,http://173.208.234.146/live/cctv3.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://173.208.234.146/live/cctv3.m3u8
 CCTV-4,http://173.208.234.146/live/cctv4.m3u8
 CCTV-7,http://173.208.234.146/live/cctv7.m3u8
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=8a6ee82553b559bb23efac155f341de3
 CCTV-16,http://173.208.212.130:8181/1080p/cctv16.m3u8
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 
